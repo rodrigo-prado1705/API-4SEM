@@ -1,4 +1,4 @@
 export const environment = {
-  apiUrl: '',
+  apiUrl: 'https://endurance-back.herokuapp.com',
   production: true,
 };
